@@ -1,0 +1,18 @@
+{{ partial "dochead.html" . }}
+{{ partial "topnav.html" . }}
+
+<div class="container">
+        {{ partial "slider.html" . }}
+<div class="col-md-3">
+{{ partial "leftnav.html" . }}
+</div>
+<div class="col-md-6">
+   <div class="jumbotron">
+     
+     {{ .Content }}
+   </div>
+</div>
+<div class="col-md-3">
+    {{ partial "rightnav.html" . }}   
+</div>
+</div>

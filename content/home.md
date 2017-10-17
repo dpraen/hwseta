@@ -1,9 +1,9 @@
 ---
-title: "Index"
-date: 2017-10-17T11:16:02+02:00
+title: "HWSETA"
 layout: "secondary"
+date: 2017-10-17T11:16:02+02:00
 ---
-## Welcome to the HWSETA
+# Welcome to the HWSETA
 
 Skills development is a national priority for South Africa and meeting the country’s skills needs requires collaboration between numerous public and government entities, educational institutions, training providers,as well as private organisations, no matter how big or small.
          
